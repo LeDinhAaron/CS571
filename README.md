@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11904107&assignment_repo_type=AssignmentRepo)
 # CS571-F23 HW1: Badger Bakery
 
 Welcome to Badger Bakery! For this assignment, you will be completing the functionality of the `.html`, `.css`, and `.js` files. You will also be using our first API. Following, you will complete the design thinking process in this `README.md`.  **Make sure to complete all sections.**
