@@ -1,0 +1,10 @@
+{
+    "name": {
+      "first": "Aaron",
+      "last": "Le",
+      "fromWisconsin": true
+    },
+    "numCredits": 15,
+    "major": "Computer Science",
+    "interests": ["Video Games", "Lifting Weights", "Sewing", "Interior Design"]
+}  
